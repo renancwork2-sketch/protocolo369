@@ -1,0 +1,8 @@
+/
+  Cache-Control: public, max-age=0, must-revalidate
+/protocolo-369/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+/protocolo-369/images/*
+  Cache-Control: public, max-age=31536000, immutable
+/protocolo-369/js/*
+  Cache-Control: public, max-age=3600, must-revalidate
